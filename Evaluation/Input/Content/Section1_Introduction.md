@@ -2,7 +2,7 @@ Risperidone is an atypical antipsychotic used for schizophrenia and other psychi
 
 This risperidone model is intended to describe plasma concentration-time profiles of risperidone, 9-hydroxyrisperidone, and active moiety across CYP2D6 phenotype and activity-score groups. It supports evaluation of CYP2D6 drug-gene interactions and interacting-drug scenarios where risperidone or 9-hydroxyrisperidone exposure is clinically relevant.
 
-The risperidone parent-metabolite PBPK model was originally developed by [Kneller 2020](#5-references). The model was subsequently used in the CYP2D6 activity-score framework by [Rüdesheim 2022](#5-references) and in the CYP2D6 drug-drug-gene interaction network by [Rüdesheim 2025](#5-references). The clinical data include oral single-dose and multiple-dose administration of risperidone, CYP2D6 phenotype or activity-score stratified groups, and studies with CYP3A or P-gp modulators.
+The risperidone parent-metabolite PBPK model was originally developed by [Kneller 2020](References.md). The model was subsequently used in the CYP2D6 activity-score framework by [Rüdesheim 2022](References.md) and in the CYP2D6 drug-drug-gene interaction network by [Rüdesheim 2025](References.md). The clinical data include oral single-dose and multiple-dose administration of risperidone, CYP2D6 phenotype or activity-score stratified groups, and studies with CYP3A or P-gp modulators.
 
 The presented model includes the following features:
 

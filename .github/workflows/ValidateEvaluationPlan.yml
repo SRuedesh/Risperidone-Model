@@ -8,6 +8,6 @@ permissions:
 
 jobs:
   Validate-Evaluation-Plan:
-    uses: Open-Systems-Pharmacology/Workflows/.github/workflows/ValidateQualificationPlan.yml@main
+    uses: Open-Systems-Pharmacology/Workflows/.github/workflows/ValidateQualificationPlan.yml@5e78d9c26dd9b1fd131ce69da7532dd5f82a8801
     with:
       qualification-plan: 'Evaluation/Input/evaluation_plan.json'

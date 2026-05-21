@@ -7,9 +7,24 @@ createQualificationReport <- function(qualificationRunnerFolder,
   }
   library(ospsuite.reportingengine)
 
-  thisFile <- if (sys.nframe() > 0) tryCatch(normalizePath(sys.frame(1)$ofile), error = function(e) NA_character_) else NA_character_
-  workingDirectory <- if (!is.na(thisFile)) dirname(thisFile) else getwd()
-  repoRoot <- normalizePath(file.path(workingDirectory, ".."), mustWork = TRUE)
+  findRepoRoot <- function(path) {
+    current <- normalizePath(path, winslash = "/", mustWork = TRUE)
+    repeat {
+      if (file.exists(file.path(current, "Risperidone-Model.json")) &&
+          dir.exists(file.path(current, "Evaluation"))) {
+        return(current)
+      }
+      parent <- dirname(current)
+      if (identical(parent, current)) {
+        stop("Could not find repository root containing Risperidone-Model.json and Evaluation", call. = FALSE)
+      }
+      current <- parent
+    }
+  }
+
+  thisFile <- if (sys.nframe() > 0) tryCatch(normalizePath(sys.frame(1)$ofile, winslash = "/", mustWork = TRUE), error = function(e) NA_character_) else NA_character_
+  repoRoot <- findRepoRoot(if (!is.na(thisFile)) dirname(thisFile) else getwd())
+  workingDirectory <- file.path(repoRoot, "Evaluation")
   qualificationPlanFile <- file.path(workingDirectory, "Input", "evaluation_plan.json")
   snapshotFile <- file.path(repoRoot, "Risperidone-Model.json")
 
