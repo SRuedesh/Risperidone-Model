@@ -1,0 +1,419 @@
+{
+  "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.3/OSP_Qualification_Plan_Schema.json",
+  "Projects": [
+    {
+      "Id": "Risperidone",
+      "Path": "../../Risperidone-Model.json",
+      "BuildingBlocks": []
+    }
+  ],
+  "ObservedDataSets": [],
+  "Plots": {
+    "PlotSettings": {
+      "ChartWidth": 500,
+      "ChartHeight": 400,
+      "Fonts": {
+        "AxisSize": 11,
+        "LegendSize": 9,
+        "OriginSize": 9,
+        "FontFamilyName": "Arial",
+        "WatermarkSize": 40
+      }
+    },
+    "AxesSettings": {
+      "ComparisonTimeProfile": [
+        {
+          "Unit": "h",
+          "Dimension": "Time",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Unit": "ng/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "GOFMergedPlotsPredictedVsObserved": [
+        {
+          "Unit": "ng/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Unit": "ng/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "GOFMergedPlotsResidualsOverTime": [
+        {
+          "Unit": "h",
+          "Dimension": "Time",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Linear"
+        }
+      ]
+    },
+    "AllPlots": [
+      {
+        "Project": "Risperidone",
+        "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Risperidone",
+        "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+        "SectionId": 332
+      }
+    ],
+    "GOFMergedPlots": [
+      {
+        "SectionId": 321,
+        "Title": "Risperidone observed versus simulated plasma concentration-time data",
+        "PlotTypes": [
+          "predictedVsObserved",
+          "residualsOverTime"
+        ],
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure"
+        ],
+        "Groups": [
+          {
+            "Caption": "Risperidone",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM), risperidone",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
+                "Color": "#FF0000"
+              }
+            ],
+            "Color": "#FF0000"
+          }
+        ]
+      },
+      {
+        "SectionId": 322,
+        "Title": "9-Hydroxyrisperidone observed versus simulated plasma concentration-time data",
+        "PlotTypes": [
+          "predictedVsObserved",
+          "residualsOverTime"
+        ],
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure"
+        ],
+        "Groups": [
+          {
+            "Caption": "9-Hydroxyrisperidone",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), 9-hydroxyrisperidone",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2), 9-hydroxyrisperidone",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), 9-hydroxyrisperidone",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3), 9-hydroxyrisperidone",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1)",
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), 9-hydroxyrisperidone",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM)",
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM), 9-hydroxyrisperidone",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "Risperidone",
+                "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
+                "Color": "#0000FF"
+              }
+            ],
+            "Color": "#0000FF"
+          }
+        ]
+      }
+    ]
+  },
+  "Inputs": [
+    {
+      "Project": "Risperidone",
+      "Name": "Risperidone",
+      "Type": "Compound",
+      "SectionId": 31
+    },
+    {
+      "Project": "Risperidone",
+      "Name": "9-Hydroxyrisperidone",
+      "Type": "Compound",
+      "SectionId": 31
+    }
+  ],
+  "Sections": [
+    {
+      "Id": 1,
+      "Title": "Introduction",
+      "Content": "Content/Section1_Introduction.md"
+    },
+    {
+      "Id": 2,
+      "Title": "Methods",
+      "Content": "Content/Section2_Methods.md",
+      "Sections": [
+        {
+          "Id": 21,
+          "Title": "Modeling strategy",
+          "Content": "Content/Section2.1_Modeling_Strategy.md"
+        },
+        {
+          "Id": 22,
+          "Title": "Data used",
+          "Content": "Content/Section2.2_Data.md"
+        },
+        {
+          "Id": 23,
+          "Title": "Model parameters and assumptions",
+          "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Title": "Results and Discussion",
+      "Content": "Content/Section3_Results_and_Discussion.md",
+      "Sections": [
+        {
+          "Id": 31,
+          "Title": "Risperidone final input parameters",
+          "Content": "Content/Input_table.md"
+        },
+        {
+          "Id": 32,
+          "Title": "Diagnostic plots",
+          "Content": "Content/GOF_diagnostics.md",
+          "Sections": [
+            {
+              "Id": 321,
+              "Title": "Risperidone goodness-of-fit diagnostics",
+              "Content": "Content/GOF_diagnostics_risperidone.md"
+            },
+            {
+              "Id": 322,
+              "Title": "9-Hydroxyrisperidone goodness-of-fit diagnostics",
+              "Content": "Content/GOF_diagnostics_9hydroxyrisperidone.md"
+            }
+          ]
+        },
+        {
+          "Id": 33,
+          "Title": "Concentration-time profiles",
+          "Content": "Content/Concentration_time_profiles.md",
+          "Sections": [
+            {
+              "Id": 331,
+              "Title": "Model Building",
+              "Content": "Content/Concentration_time_profiles_building.md"
+            },
+            {
+              "Id": 332,
+              "Title": "Model Verification",
+              "Content": "Content/Concentration_time_profiles_verification.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Title": "Conclusion",
+      "Content": "Content/Section4_Conclusion.md"
+    },
+    {
+      "Id": 5,
+      "Title": "References",
+      "Content": "Content/References.md"
+    }
+  ],
+  "Intro": [
+    {
+      "Path": "Content/titlepage.md"
+    }
+  ]
+}

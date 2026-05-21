@@ -1,0 +1,19 @@
+The PBPK model for risperidone was developed and evaluated with clinical pharmacokinetic data after oral administration. The evaluation covers single-dose and multiple-dose oral administration, risperidone and 9-hydroxyrisperidone plasma concentration-time profiles, CYP2D6 poor-, extensive-, and activity-score stratified groups, and interaction settings relevant to CYP3A and P-gp.
+
+The model-building data supported the parent-metabolite structure, CYP2D6-mediated 9-hydroxylation, CYP3A4 metabolism, P-gp transport, renal filtration, and residual metabolite clearance. Model-building studies included CYP2D6 activity-score or phenotype data from [Novalbos 2010](#5-references), [Bondolfi 2002](#5-references), and [Markowitz 2002](#5-references), as well as studies with parent and metabolite measurements from [Darwish 2015](#5-references) and [Mahatthanatrakul 2012](#5-references). Verification included independent activity-score and interaction studies from [Novalbos 2010](#5-references), [Nakagami 2005](#5-references), [Mahatthanatrakul 2007](#5-references), and [Kim 2008](#5-references).
+
+The model quantifies CYP2D6-mediated formation of 9-hydroxyrisperidone, CYP3A4-mediated metabolism, P-gp transport, passive renal filtration, and residual clearance of the active metabolite. The interpretation of model performance requires separate consideration of parent, metabolite, and active-moiety behavior. Parent risperidone profiles mainly test absorption, P-gp transport, and formation clearance. 9-hydroxyrisperidone profiles additionally test metabolite distribution, renal filtration, and residual hepatic clearance.
+
+The next sections show:
+
+1. the final model input parameters for the building blocks: [Section 3.1](#31).
+2. the overall goodness of fit: [Section 3.2](#32).
+3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](#33).
+
+The merged GOF diagnostic over the included concentration observations gives GMFE values of 1.60 for risperidone, 1.71 for 9-hydroxyrisperidone, and 1.64 for all observations. These values show acceptable population-level agreement but are less tight than for some single-analyte CYP2D6 substrate models. The difference between parent and metabolite GMFE values should be considered when interpreting active-moiety predictions, because compensation between risperidone and 9-hydroxyrisperidone can mask analyte-specific bias.
+
+[Rüdesheim 2022](#5-references) reported strong DGI ratio performance for risperidone, with 7 of 7 AUClast ratios and 7 of 7 Cmax ratios within the prediction success limits. The reported GMFE values were 1.11 for AUClast ratios and 1.16 for Cmax ratios. These DGI ratio metrics support the activity-score implementation, while the concentration-time diagnostics below remain necessary for evaluating the full parent-metabolite model.
+
+The concentration-time profiles should be reviewed by CYP2D6 activity group and analyte. CYP2D6 poor-metabolizer profiles test whether CYP3A4 metabolism and residual processes can describe parent clearance when CYP2D6 activity is absent. Higher activity-score groups test whether increased CYP2D6 k<sub>cat</sub> values improve parent-to-metabolite conversion without overpredicting 9-hydroxyrisperidone. Interaction studies involving rifampin or other modulators additionally test whether CYP3A and P-gp assumptions remain plausible beyond the base oral dosing studies.
+
+The model is adequate for adult oral risperidone simulations within the represented doses, CYP2D6 groups, and measured analytes. Remaining interpretation should be cautious for unrepresented formulations, pediatric populations, and scenarios where the active moiety is used without checking parent and metabolite profiles separately.
