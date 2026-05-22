@@ -12,10 +12,11 @@ The table below summarizes the drug-dependent inputs documented for the risperid
 | Risperidone P-gp K<sub>m</sub> | µmol/L | 26.30 | [Kneller 2020](References.md) | P-gp affinity parameter. |
 | Risperidone P-gp k<sub>cat</sub> | 1/min | 12.72 | Optimized | P-gp transport capacity. |
 | 9-Hydroxyrisperidone f<sub>u</sub> | % | 29.00 | [Kneller 2020](References.md) | Plasma binding input for the active metabolite. |
+| 9-Hydroxyrisperidone P-gp K<sub>m</sub> | µmol/L | 149.60 | [Rüdesheim 2022](References.md) | P-gp affinity parameter for the active metabolite. |
 | 9-Hydroxyrisperidone unspecific CL<sub>hep</sub> | 1/min | 0.08 | Optimized | Residual metabolite elimination. |
 | GFR fraction | - | 1.00 | Assumed | Passive glomerular filtration fraction for parent and metabolite. |
 
-The 9-hydroxyrisperidone P-gp K<sub>m</sub> reported in the publication and supplement by [Rüdesheim 2022](References.md) is mismatched. The model retains the correct value of 149.6 µmol/L.
+The 9-hydroxyrisperidone P-gp K<sub>m</sub> reported in the publication and supplement by [Rüdesheim 2022](References.md) is erroneous. The model retains the correct value of 149.6 µmol/L.
 
 ### 2.2.2 Clinical data
 

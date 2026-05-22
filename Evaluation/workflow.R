@@ -58,7 +58,15 @@ createQualificationReport <- function(qualificationRunnerFolder,
   )
   workflow$reportFilePath <- file.path(workingDirectory, "report", "report.md")
   workflow$createWordReport <- createWordReport
-  if (!is.null(maxSimulationsPerCore)) workflow$simulate$settings$maxSimulationsPerCore <- maxSimulationsPerCore
+  if (!is.null(maxSimulationsPerCore)) {
+    if (!is.numeric(maxSimulationsPerCore) ||
+        length(maxSimulationsPerCore) != 1 ||
+        is.na(maxSimulationsPerCore) ||
+        maxSimulationsPerCore < 1) {
+      stop("maxSimulationsPerCore must be a single numeric value >= 1.", call. = FALSE)
+    }
+    workflow$simulate$settings$maxSimulationsPerCore <- as.integer(maxSimulationsPerCore)
+  }
   workflow$runWorkflow()
   invisible(workflow)
 }
