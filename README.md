@@ -1,7 +1,7 @@
 # Risperidone-Model
 Whole-body parent-metabolite PBPK model of risperidone and 9-hydroxyrisperidone including CYP2D6 drug-gene interactions.
 
-This repository contains the risperidone model originally published by Kneller et al. [[1](#references)] and extended for CYP2D6 activity-score dependent metabolism by Rüdesheim et al. [[2](#references)].
+This repository contains the risperidone model originally published by Kneller et al. [[1](#references)] and extended for CYP2D6 activity-score-dependent metabolism by Rüdesheim et al. [[2](#references)].
 
 The model was developed and evaluated using published clinical plasma pharmacokinetic data after oral risperidone administration by Novalbos et al. [[3](#references)], Bondolfi et al. [[4](#references)], Markowitz et al. [[5](#references)], Darwish et al. [[6](#references)], Mahatthanatrakul et al. [[7](#references), [10](#references)], Nakagami et al. [[8](#references)] and Kim et al. [[9](#references)].
 
@@ -28,7 +28,7 @@ This repository contains:
 - static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
 - an evaluation plan (evaluation_plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
-**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](../../releases/latest).**
+**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](./releases/latest).**
 
 **The latest release of the PK-Sim project model file and the respective evaluation report can be found in the [latest OSP PBPK Model Library release](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 

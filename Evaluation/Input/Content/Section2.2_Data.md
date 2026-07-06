@@ -26,17 +26,17 @@ Model-building clinical data:
 
 | Publication | Arm / Treatment / Information used for model building |
 | --- | --- |
-| [Novalbos 2010](References.md) | Plasma PK profiles in adults after oral, single dose administration of 1 mg risperidone with CYP2D6 AS = 2 status. |
+| [Novalbos 2010](References.md) | Plasma PK profiles in adults after oral, single-dose administration of 1 mg risperidone with CYP2D6 AS = 2 status. |
 | [Bondolfi 2002](References.md) | Plasma PK profiles in adults after oral, multiple dose administration of 2 mg risperidone with CYP2D6 poor- and extensive-metabolizer status. |
-| [Markowitz 2002](References.md) | Plasma PK profiles in adults after oral, single dose administration of 1 mg risperidone with CYP2D6 extensive-metabolizer status. |
-| [Darwish 2015](References.md) | Plasma PK profiles in adults after oral, single dose administration of 2 mg risperidone with CYP2D6 extensive-metabolizer status. |
-| [Mahatthanatrakul 2012](References.md) | Plasma PK profiles in adults after oral, single dose administration of 2 mg risperidone with risperidone and 9-hydroxyrisperidone measurements. |
+| [Markowitz 2002](References.md) | Plasma PK profiles in adults after oral, single-dose administration of 1 mg risperidone with CYP2D6 extensive-metabolizer status. |
+| [Darwish 2015](References.md) | Plasma PK profiles in adults after oral, single-dose administration of 2 mg risperidone with CYP2D6 extensive-metabolizer status. |
+| [Mahatthanatrakul 2012](References.md) | Plasma PK profiles in adults after oral, single-dose administration of 2 mg risperidone with risperidone and 9-hydroxyrisperidone measurements. |
 
 Model-verification clinical data:
 
 | Publication | Arm / Treatment / Information used for model verification |
 | --- | --- |
-| [Novalbos 2010](References.md) | Plasma PK profiles in adults after oral, single dose administration of 1 mg risperidone with CYP2D6 AS = 0, AS = 1, and AS = 3 status. |
-| [Nakagami 2005](References.md) | Plasma PK profiles in adults after oral, single dose administration of 1 mg risperidone with risperidone and 9-hydroxyrisperidone measurements. |
-| [Mahatthanatrakul 2007](References.md) | Plasma PK profiles in adults after oral, single dose administration of 4 mg risperidone. |
+| [Novalbos 2010](References.md) | Plasma PK profiles in adults after oral, single-dose administration of 1 mg risperidone with CYP2D6 AS = 0, AS = 1, and AS = 3 status. |
+| [Nakagami 2005](References.md) | Plasma PK profiles in adults after oral, single-dose administration of 1 mg risperidone with risperidone and 9-hydroxyrisperidone measurements. |
+| [Mahatthanatrakul 2007](References.md) | Plasma PK profiles in adults after oral, single-dose administration of 4 mg risperidone. |
 | [Kim 2008](References.md) | Plasma PK profiles in adults after oral risperidone administration with rifampin pretreatment. |

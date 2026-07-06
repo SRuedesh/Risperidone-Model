@@ -10,7 +10,7 @@ The same oral absorption assumptions are used across CYP2D6 status groups. Pheno
 
 ### 2.3.2 Distribution
 
-Risperidone and 9-hydroxyrisperidone are represented with compound-specific plasma protein binding. Fraction unbound values of 17.50% for risperidone and 29.00% for 9-hydroxyrisperidone were used as summarized in [Section 2.2.1](#221-in-vitro-and-physicochemical-data).
+Risperidone and 9-hydroxyrisperidone are represented with compound-specific plasma protein binding. Fraction unbound values of 17.50% for risperidone and 29.00% for 9-hydroxyrisperidone were used as summarized in [Section 2.2.1](Section2.2_Data.md).
 
 Partition coefficients were calculated with the Rodgers and Rowland method. The parent-metabolite structure means that distribution affects both the parent concentration-time profile and the active-moiety profile.
 
@@ -24,7 +24,7 @@ Two CYP-mediated pathways, transporter processes, renal filtration, and residual
 
 * CYP2D6
 
-CYP2D6 converts risperidone to 9-hydroxyrisperidone. CYP2D6 activity is activity-score dependent. Poor-metabolizer activity is set to zero, while non-zero activity-score groups use fitted or scaled k<sub>cat</sub> values based on the CYP2D6 activity-score framework.
+CYP2D6 converts risperidone to 9-hydroxyrisperidone. CYP2D6 activity is activity-score-dependent. Poor-metabolizer activity is set to zero, while non-zero activity-score groups use fitted or scaled k<sub>cat</sub> values based on the CYP2D6 activity-score framework.
 
 The CYP2D6 pathway controls both parent depletion and metabolite formation. For this reason, CYP2D6 parameterization affects risperidone, 9-hydroxyrisperidone, and active-moiety profiles in different directions. Parent-only diagnostics are not sufficient to evaluate this model.
 
@@ -36,7 +36,7 @@ These pathways provide CYP2D6-independent clearance and prevent poor-metabolizer
 
 * P-gp and renal elimination
 
-P-gp transport is implemented for risperidone and 9-hydroxyrisperidone. Both compounds include passive renal filtration with a `GFR fraction` of 1. The metabolite also includes unspecific hepatic clearance as summarized in [Section 2.2.1](#221-in-vitro-and-physicochemical-data).
+P-gp transport is implemented for risperidone and 9-hydroxyrisperidone. Both compounds include passive renal filtration with a `GFR fraction` of 1. The metabolite also includes unspecific hepatic clearance as summarized in [Section 2.2.1](Section2.2_Data.md).
 
 P-gp transport was retained for both parent and metabolite because it can affect intestinal and renal handling. Passive renal filtration uses the compound-specific fraction unbound and adult renal physiology. The additional metabolite clearance pathway captures elimination of 9-hydroxyrisperidone not represented by filtration alone.
 

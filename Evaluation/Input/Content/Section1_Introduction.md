@@ -7,7 +7,7 @@ The risperidone parent-metabolite PBPK model was originally developed by [Knelle
 The presented model includes the following features:
 
 - risperidone and 9-hydroxyrisperidone as parent and metabolite compounds,
-- CYP2D6-mediated risperidone metabolism with activity-score dependent k<sub>cat</sub> values,
+- CYP2D6-mediated risperidone metabolism with activity-score-dependent k<sub>cat</sub> values,
 - CYP3A4-mediated metabolism and residual sink pathways,
 - P-gp transport for risperidone and 9-hydroxyrisperidone,
 - renal filtration for parent and metabolite,

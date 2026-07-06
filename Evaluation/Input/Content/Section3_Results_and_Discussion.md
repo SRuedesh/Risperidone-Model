@@ -6,9 +6,9 @@ The model quantifies CYP2D6-mediated formation of 9-hydroxyrisperidone, CYP3A4-m
 
 The next sections show:
 
-1. the final model input parameters for the building blocks: [Section 3.1](#31).
-2. the overall goodness of fit: [Section 3.2](#32).
-3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](#33).
+1. the final model input parameters for the building blocks: [Section 3.1](Input_table.md).
+2. the overall goodness of fit: [Section 3.2](GOF_diagnostics.md).
+3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](Concentration_time_profiles.md).
 
 The merged GOF diagnostic over the included concentration observations gives GMFE values of 1.60 for risperidone, 1.71 for 9-hydroxyrisperidone, and 1.64 for all observations. These values show acceptable population-level agreement but are less tight than for some single-analyte CYP2D6 substrate models. The difference between parent and metabolite GMFE values should be considered when interpreting active-moiety predictions, because compensation between risperidone and 9-hydroxyrisperidone can mask analyte-specific bias.
 

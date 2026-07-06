@@ -2,7 +2,7 @@ The general concept of building a PBPK model has previously been described by Ku
 
 The applied activity and variability of plasma proteins and active processes integrated into PK-Sim are described in the publicly available PK-Sim Ontogeny Database or otherwise referenced for the specific process.
 
-The risperidone model was developed as a parent-metabolite model for risperidone and 9-hydroxyrisperidone. The original model by [Kneller 2020](References.md) described oral risperidone pharmacokinetics by CYP2D6 phenotype. [Rüdesheim 2022](References.md) then used the model in a CYP2D6 activity-score framework, where CYP2D6 metabolic capacity is represented by activity-score dependent k<sub>cat</sub> values.
+The risperidone model was developed as a parent-metabolite model for risperidone and 9-hydroxyrisperidone. The original model by [Kneller 2020](References.md) described oral risperidone pharmacokinetics by CYP2D6 phenotype. [Rüdesheim 2022](References.md) then used the model in a CYP2D6 activity-score framework, where CYP2D6 metabolic capacity is represented by activity-score-dependent k<sub>cat</sub> values.
 
 Clinical studies used for model building covered oral risperidone administration and included data for risperidone and 9-hydroxyrisperidone where available. Model verification used independent oral study arms, including CYP2D6 poor-, normal-, and higher-activity groups and interacting-drug scenarios. Because the active moiety is the sum of parent and metabolite exposure, model performance has to be interpreted separately for risperidone, 9-hydroxyrisperidone, and active moiety.
 
@@ -14,4 +14,4 @@ The evaluated applications are oral risperidone applications with risperidone, 9
 
 The report therefore presents model diagnostics for the parent and metabolite concentrations and links the clinical-data table to model-building and verification profiles. The intended interpretation is the plausibility of risperidone and 9-hydroxyrisperidone exposure across CYP2D6 status, not a separate reoptimization for each clinical study.
 
-Details about input data are provided in [Section 2.2](#22). Details about the structural model and assumptions are provided in [Section 2.3](#23).
+Details about input data are provided in [Section 2.2](Section2.2_Data.md). Details about the structural model and assumptions are provided in [Section 2.3](Section2.3_Model_Parameters_and_Assumptions.md).
