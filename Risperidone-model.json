@@ -14245,7 +14245,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -14320,7 +14320,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -14444,7 +14444,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -14519,7 +14519,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -14643,7 +14643,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -14979,7 +14979,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -15251,7 +15251,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -15371,7 +15371,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -15659,7 +15659,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -15907,7 +15907,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -16027,7 +16027,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -16102,7 +16102,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -16181,7 +16181,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -16517,7 +16517,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -16637,7 +16637,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -16757,7 +16757,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -16881,7 +16881,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -17217,7 +17217,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -17553,7 +17553,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Bondolfi (2001), n=8 (EM)",
+      "Category": "Bondolfi (2002), n=8 (EM)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -17805,7 +17805,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -17880,7 +17880,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -18004,7 +18004,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -18079,7 +18079,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -18203,7 +18203,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -18539,7 +18539,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -18811,7 +18811,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -18931,7 +18931,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -19219,7 +19219,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -19467,7 +19467,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -19587,7 +19587,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -19662,7 +19662,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -19741,7 +19741,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -20077,7 +20077,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -20197,7 +20197,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -20317,7 +20317,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -20441,7 +20441,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -20777,7 +20777,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -21113,7 +21113,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Bondolfi (2001), n=2 (PM)",
+      "Category": "Bondolfi (2002), n=2 (PM)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -42932,7 +42932,7 @@
       ]
     },
     {
-      "Name": "Bondolfi (2001), n=8 (EM)",
+      "Name": "Bondolfi (2002), n=8 (EM)",
       "Seed": 1815479781,
       "OriginData": {
         "CalculationMethods": [
@@ -42954,29 +42954,29 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Bondolfi (2001), n=8 (EM)",
-        "AADAC|Human|Bondolfi (2001), n=8 (EM)",
-        "CYP2D6|Human|Bondolfi (2001), n=8 (EM)",
-        "MAOA|Human|Bondolfi (2001), n=8 (EM)",
-        "ABCB1|Human|Bondolfi (2001), n=8 (EM)",
-        "OATP1B1|Human|Bondolfi (2001), n=8 (EM)",
-        "ATP1A2|Human|Bondolfi (2001), n=8 (EM)",
-        "OCT2|Human|Bondolfi (2001), n=8 (EM)",
-        "MATE2-K|Human|Bondolfi (2001), n=8 (EM)",
-        "PON3|Human|Bondolfi (2001), n=8 (EM)",
-        "CYP2C8|Human|Bondolfi (2001), n=8 (EM)",
-        "UGT2B7|Human|Bondolfi (2001), n=8 (EM)",
-        "ABCC3|Human|Bondolfi (2001), n=8 (EM)",
-        "DPYS|Human|Bondolfi (2001), n=8 (EM)",
-        "UPB1|Human|Bondolfi (2001), n=8 (EM)",
-        "DPYD|Human|Bondolfi (2001), n=8 (EM)",
-        "ABCC4|Human|Bondolfi (2001), n=8 (EM)",
-        "SLC22A7|Human|Bondolfi (2001), n=8 (EM)",
-        "Liver_influx_gemfibrozil|Human|Bondolfi (2001), n=8 (EM)"
+        "CYP3A4|Human|Bondolfi (2002), n=8 (EM)",
+        "AADAC|Human|Bondolfi (2002), n=8 (EM)",
+        "CYP2D6|Human|Bondolfi (2002), n=8 (EM)",
+        "MAOA|Human|Bondolfi (2002), n=8 (EM)",
+        "ABCB1|Human|Bondolfi (2002), n=8 (EM)",
+        "OATP1B1|Human|Bondolfi (2002), n=8 (EM)",
+        "ATP1A2|Human|Bondolfi (2002), n=8 (EM)",
+        "OCT2|Human|Bondolfi (2002), n=8 (EM)",
+        "MATE2-K|Human|Bondolfi (2002), n=8 (EM)",
+        "PON3|Human|Bondolfi (2002), n=8 (EM)",
+        "CYP2C8|Human|Bondolfi (2002), n=8 (EM)",
+        "UGT2B7|Human|Bondolfi (2002), n=8 (EM)",
+        "ABCC3|Human|Bondolfi (2002), n=8 (EM)",
+        "DPYS|Human|Bondolfi (2002), n=8 (EM)",
+        "UPB1|Human|Bondolfi (2002), n=8 (EM)",
+        "DPYD|Human|Bondolfi (2002), n=8 (EM)",
+        "ABCC4|Human|Bondolfi (2002), n=8 (EM)",
+        "SLC22A7|Human|Bondolfi (2002), n=8 (EM)",
+        "Liver_influx_gemfibrozil|Human|Bondolfi (2002), n=8 (EM)"
       ]
     },
     {
-      "Name": "Bondolfi (2001), n=2 (PM)",
+      "Name": "Bondolfi (2002), n=2 (PM)",
       "Seed": 1815479781,
       "OriginData": {
         "CalculationMethods": [
@@ -42998,25 +42998,25 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Bondolfi (2001), n=2 (PM)",
-        "AADAC|Human|Bondolfi (2001), n=2 (PM)",
-        "CYP2D6|Human|Bondolfi (2001), n=2 (PM)",
-        "MAOA|Human|Bondolfi (2001), n=2 (PM)",
-        "ABCB1|Human|Bondolfi (2001), n=2 (PM)",
-        "OATP1B1|Human|Bondolfi (2001), n=2 (PM)",
-        "ATP1A2|Human|Bondolfi (2001), n=2 (PM)",
-        "OCT2|Human|Bondolfi (2001), n=2 (PM)",
-        "MATE2-K|Human|Bondolfi (2001), n=2 (PM)",
-        "PON3|Human|Bondolfi (2001), n=2 (PM)",
-        "CYP2C8|Human|Bondolfi (2001), n=2 (PM)",
-        "UGT2B7|Human|Bondolfi (2001), n=2 (PM)",
-        "ABCC3|Human|Bondolfi (2001), n=2 (PM)",
-        "DPYS|Human|Bondolfi (2001), n=2 (PM)",
-        "UPB1|Human|Bondolfi (2001), n=2 (PM)",
-        "DPYD|Human|Bondolfi (2001), n=2 (PM)",
-        "ABCC4|Human|Bondolfi (2001), n=2 (PM)",
-        "SLC22A7|Human|Bondolfi (2001), n=2 (PM)",
-        "Liver_influx_gemfibrozil|Human|Bondolfi (2001), n=2 (PM)"
+        "CYP3A4|Human|Bondolfi (2002), n=2 (PM)",
+        "AADAC|Human|Bondolfi (2002), n=2 (PM)",
+        "CYP2D6|Human|Bondolfi (2002), n=2 (PM)",
+        "MAOA|Human|Bondolfi (2002), n=2 (PM)",
+        "ABCB1|Human|Bondolfi (2002), n=2 (PM)",
+        "OATP1B1|Human|Bondolfi (2002), n=2 (PM)",
+        "ATP1A2|Human|Bondolfi (2002), n=2 (PM)",
+        "OCT2|Human|Bondolfi (2002), n=2 (PM)",
+        "MATE2-K|Human|Bondolfi (2002), n=2 (PM)",
+        "PON3|Human|Bondolfi (2002), n=2 (PM)",
+        "CYP2C8|Human|Bondolfi (2002), n=2 (PM)",
+        "UGT2B7|Human|Bondolfi (2002), n=2 (PM)",
+        "ABCC3|Human|Bondolfi (2002), n=2 (PM)",
+        "DPYS|Human|Bondolfi (2002), n=2 (PM)",
+        "UPB1|Human|Bondolfi (2002), n=2 (PM)",
+        "DPYD|Human|Bondolfi (2002), n=2 (PM)",
+        "ABCC4|Human|Bondolfi (2002), n=2 (PM)",
+        "SLC22A7|Human|Bondolfi (2002), n=2 (PM)",
+        "Liver_influx_gemfibrozil|Human|Bondolfi (2002), n=2 (PM)"
       ]
     },
     {
@@ -45652,10 +45652,10 @@
       ]
     },
     {
-      "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)",
+      "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone"
+        "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -45765,11 +45765,11 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone"
+          "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone"
         }
       ],
-      "Individual": "Bondolfi (2001), n=2 (PM)",
+      "Individual": "Bondolfi (2002), n=2 (PM)",
       "Compounds": [
         {
           "Name": "Risperidone",
@@ -45938,18 +45938,18 @@
           ],
           "Curves": [
             {
-              "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+              "Y": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|[h]",
-              "Y": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
+              "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|[h]",
+              "Y": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 3,
@@ -45981,10 +45981,10 @@
       ]
     },
     {
-      "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)",
+      "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone"
+        "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -46094,11 +46094,11 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone"
+          "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone"
         }
       ],
-      "Individual": "Bondolfi (2001), n=8 (EM)",
+      "Individual": "Bondolfi (2002), n=8 (EM)",
       "Compounds": [
         {
           "Name": "Risperidone",
@@ -46267,18 +46267,18 @@
           ],
           "Curves": [
             {
-              "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+              "Y": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|[h]",
-              "Y": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
+              "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|[h]",
+              "Y": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -48332,7 +48332,7 @@
       }
     },
     {
-      "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
+      "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -48362,7 +48362,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
+                "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -48386,7 +48386,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
+            "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -48412,7 +48412,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|[h]",
+          "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -48436,7 +48436,7 @@
       }
     },
     {
-      "Name": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
+      "Name": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -48466,7 +48466,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
+                "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -48490,7 +48490,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
+            "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -48516,7 +48516,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|[h]",
+          "Path": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -49944,8 +49944,8 @@
         "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3), risperidone",
         "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2), risperidone",
         "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), risperidone",
-        "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
-        "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
+        "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
+        "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
         "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone",
         "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), risperidone",
         "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), risperidone",
@@ -49984,8 +49984,8 @@
       "Name": "internal_dataset",
       "Classifiables": [
         "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
-        "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)",
-        "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)",
+        "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)",
+        "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)",
         "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)",
         "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM)",
         "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM)"
