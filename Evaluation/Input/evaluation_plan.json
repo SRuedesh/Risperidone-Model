@@ -93,12 +93,12 @@
       },
       {
         "Project": "Risperidone",
-        "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)",
+        "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)",
         "SectionId": 331
       },
       {
         "Project": "Risperidone",
-        "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)",
+        "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)",
         "SectionId": 331
       },
       {
@@ -180,16 +180,16 @@
               },
               {
                 "Project": "Risperidone",
-                "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM)",
+                "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
+                "ObservedData": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Risperidone",
-                "Simulation": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM)",
+                "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bondolfi (2001) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
+                "ObservedData": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
                 "Color": "#FF0000"
               },
               {
