@@ -1,0 +1,1 @@
+The following model-building profiles show risperidone and 9-hydroxyrisperidone data used to establish parent disposition and CYP2D6-mediated metabolite formation. Parent and metabolite observations are interpreted separately.

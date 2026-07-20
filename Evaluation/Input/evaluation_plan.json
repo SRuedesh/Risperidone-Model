@@ -155,84 +155,84 @@
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               }
             ]
           }
@@ -260,49 +260,49 @@
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), 9-hydroxyrisperidone",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2), 9-hydroxyrisperidone",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), 9-hydroxyrisperidone",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3), 9-hydroxyrisperidone",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), 9-hydroxyrisperidone",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM), 9-hydroxyrisperidone",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               },
               {
                 "Project": "Risperidone",
                 "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               }
             ]
           }

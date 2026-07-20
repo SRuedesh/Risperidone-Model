@@ -10,7 +10,7 @@ The next sections show:
 2. the overall goodness of fit: [Section 3.2](GOF_diagnostics.md).
 3. simulated vs. observed concentration-time profiles for the clinical studies used for model building and for model verification: [Section 3.3](Concentration_time_profiles.md).
 
-The merged GOF diagnostic over the included concentration observations gives GMFE values of 1.60 for risperidone, 1.71 for 9-hydroxyrisperidone, and 1.64 for all observations. These values show acceptable population-level agreement but are less tight than for some single-analyte CYP2D6 substrate models. The difference between parent and metabolite GMFE values should be considered when interpreting active-moiety predictions, because compensation between risperidone and 9-hydroxyrisperidone can mask analyte-specific bias.
+The merged GOF diagnostic over the included concentration observations gives GMFE values of 1.30 for risperidone and 1.31 for 9-hydroxyrisperidone. The diagnostic output does not provide a separately calculated overall GMFE. These values show close population-level agreement. Parent and metabolite performance should nevertheless be considered separately when interpreting active-moiety predictions, because compensation between risperidone and 9-hydroxyrisperidone can mask analyte-specific bias.
 
 [Rüdesheim 2022](References.md) reported strong DGI ratio performance for risperidone, with 7 of 7 AUClast ratios and 7 of 7 Cmax ratios within the prediction success limits. The reported GMFE values were 1.11 for AUClast ratios and 1.16 for Cmax ratios. These DGI ratio metrics support the activity-score implementation, while the concentration-time diagnostics below remain necessary for evaluating the full parent-metabolite model.
 
