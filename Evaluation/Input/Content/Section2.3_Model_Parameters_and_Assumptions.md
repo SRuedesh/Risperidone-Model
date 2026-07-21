@@ -39,17 +39,3 @@ These pathways provide CYP2D6-independent clearance and prevent poor-metabolizer
 P-gp transport is implemented for risperidone and 9-hydroxyrisperidone. Both compounds include passive renal filtration with a `GFR fraction` of 1. The metabolite also includes unspecific hepatic clearance as summarized in [Section 2.2.1](Section2.2_Data.md).
 
 P-gp transport was retained for both parent and metabolite because it can affect intestinal and renal handling. Passive renal filtration uses the compound-specific fraction unbound and adult renal physiology. The additional metabolite clearance pathway captures elimination of 9-hydroxyrisperidone not represented by filtration alone.
-
-### 2.3.4 Automated Parameter Identification
-
-The following parameters were optimized by fitting the model to the data:
-
-| Model Parameter |
-| --- |
-| CYP2D6 k<sub>cat</sub> values |
-| CYP3A4 sink-related rates |
-| P-gp transport k<sub>cat</sub> values |
-| 9-hydroxyrisperidone unspecific CL<sub>hep</sub> |
-| `Specific intestinal permeability` |
-
-The optimized parameters were selected to describe oral absorption, parent-to-metabolite conversion, transporter contribution, and residual metabolite clearance. Physicochemical values and plasma protein binding values were kept as sourced inputs. This distinction is important for interpreting CYP2D6 activity-score simulations, because the exposure shift is driven by metabolic-capacity terms rather than by repeated adjustment of distribution or binding.
