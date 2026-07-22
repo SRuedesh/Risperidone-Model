@@ -44013,7 +44013,7 @@
             },
             {
               "Name": "Reference pH",
-              "Value": 7.3,
+              "Value": 6.5,
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "Other",
@@ -44722,7 +44722,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 5,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -45023,7 +45023,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -45324,7 +45324,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -45625,7 +45625,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -46584,7 +46584,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -47589,7 +47589,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -47879,7 +47879,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 3,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {

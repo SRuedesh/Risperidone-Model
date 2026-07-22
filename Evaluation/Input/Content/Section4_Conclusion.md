@@ -1,1 +1,1 @@
-The presented PBPK model adequately describes the oral pharmacokinetics of risperidone and 9-hydroxyrisperidone in the evaluated adult CYP2D6 phenotype and activity-score groups.
+The presented PBPK model adequately describes the oral pharmacokinetics of risperidone and 9-hydroxyrisperidone in the evaluated adult CYP2D6 phenotype and activity-score groups. Interpretation should remain cautious for unrepresented formulations and pediatric populations, and active-moiety predictions should be assessed with the parent and metabolite profiles separately.

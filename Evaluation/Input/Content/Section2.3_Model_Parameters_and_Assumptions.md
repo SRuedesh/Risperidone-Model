@@ -4,6 +4,8 @@ The model includes oral administration of risperidone. Oral absorption is repres
 
 The clinical studies used for model building and verification are oral tablet studies, so the evaluation focuses on oral risperidone absorption and subsequent parent-metabolite disposition.
 
+The 9-hydroxyrisperidone solubility input is 0.171 mg/mL at pH 6.5, as reported by Kneller et al. [[3](#5-references)].
+
 No intravenous risperidone data are included in the evaluation, so oral absorption and first-pass metabolism are coupled in the clinical concentration-time profiles. The `Specific intestinal permeability` parameter is therefore interpreted together with the metabolic parameters that determine parent and metabolite exposure after oral dosing.
 
 The same oral absorption assumptions are used across CYP2D6 status groups. Phenotype and activity-score differences are assigned to metabolic capacity rather than to study-specific changes in absorption.

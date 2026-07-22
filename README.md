@@ -42,22 +42,22 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
-[1] [L A Kneller, F Abad-Santos, G Hempel. Physiologically Based Pharmacokinetic Modelling to Describe the Pharmacokinetics of Risperidone and 9-Hydroxyrisperidone According to Cytochrome P450 2D6 Phenotypes. Clin Pharmacokinet, 2020;59:51-65.](https://doi.org/10.1007/s40262-019-00793-x)
+[1] L A Kneller, F Abad-Santos, G Hempel. Physiologically Based Pharmacokinetic Modelling to Describe the Pharmacokinetics of Risperidone and 9-Hydroxyrisperidone According to Cytochrome P450 2D6 Phenotypes. Clin Pharmacokinet, 2020;59:51-65. doi: [10.1007/s40262-019-00793-x](https://doi.org/10.1007/s40262-019-00793-x).
 
-[2] [S Rüdesheim, D Selzer, T Mürdter, S Igel, R Kerb, M Schwab, T Lehr. Physiologically Based Pharmacokinetic Modeling to Describe the CYP2D6 Activity Score-Dependent Metabolism of Paroxetine, Atomoxetine and Risperidone. Pharmaceutics, 2022;14:1734.](https://doi.org/10.3390/pharmaceutics14081734)
+[2] S Rüdesheim, D Selzer, T Mürdter, S Igel, R Kerb, M Schwab, T Lehr. Physiologically Based Pharmacokinetic Modeling to Describe the CYP2D6 Activity Score-Dependent Metabolism of Paroxetine, Atomoxetine and Risperidone. Pharmaceutics, 2022;14:1734. doi: [10.3390/pharmaceutics14081734](https://doi.org/10.3390/pharmaceutics14081734).
 
-[3] [J Novalbos, R López-Rodríguez, M Román, S Gallego-Sadín, D Ochoa, F Abad-Santos. Effects of CYP2D6 genotype on the pharmacokinetics, pharmacodynamics, and safety of risperidone in healthy volunteers. J Clin Psychopharmacol, 2010;30:504-511.](https://doi.org/10.1097/JCP.0b013e3181ee84c7)
+[3] J Novalbos, R López-Rodríguez, M Román, S Gallego-Sadín, D Ochoa, F Abad-Santos. Effects of CYP2D6 genotype on the pharmacokinetics, pharmacodynamics, and safety of risperidone in healthy volunteers. J Clin Psychopharmacol, 2010;30:504-511. doi: [10.1097/JCP.0b013e3181ee84c7](https://doi.org/10.1097/JCP.0b013e3181ee84c7).
 
-[4] [G Bondolfi, C B Eap, G Bertschy, D Zullino, A Vermeulen, P Baumann. The effect of fluoxetine on the pharmacokinetics and safety of risperidone in psychotic patients. Pharmacopsychiatry, 2002;35:50-56.](https://doi.org/10.1055/s-2002-25026)
+[4] G Bondolfi, C B Eap, G Bertschy, D Zullino, A Vermeulen, P Baumann. The effect of fluoxetine on the pharmacokinetics and safety of risperidone in psychotic patients. Pharmacopsychiatry, 2002;35:50-56. doi: [10.1055/s-2002-25026](https://doi.org/10.1055/s-2002-25026).
 
-[5] [J S Markowitz, C L DeVane, H L Liston, D W Boulton, S C Risch. The effects of probenecid on the disposition of risperidone and olanzapine in healthy volunteers. Clin Pharmacol Ther, 2002;71:30-38.](https://doi.org/10.1067/mcp.2002.119815)
+[5] J S Markowitz, C L DeVane, H L Liston, D W Boulton, S C Risch. The effects of probenecid on the disposition of risperidone and olanzapine in healthy volunteers. Clin Pharmacol Ther, 2002;71:30-38. doi: [10.1067/mcp.2002.119815](https://doi.org/10.1067/mcp.2002.119815).
 
-[6] [M Darwish, M Bond, R Yang, E T Hellriegel, P Robertson. Evaluation of Potential Pharmacokinetic Drug-Drug Interaction Between Armodafinil and Risperidone in Healthy Adults. Clin Drug Investig, 2015;35:725-733.](https://doi.org/10.1007/s40261-015-0330-6)
+[6] M Darwish, M Bond, R Yang, E T Hellriegel, P Robertson. Evaluation of Potential Pharmacokinetic Drug-Drug Interaction Between Armodafinil and Risperidone in Healthy Adults. Clin Drug Investig, 2015;35:725-733. doi: [10.1007/s40261-015-0330-6](https://doi.org/10.1007/s40261-015-0330-6).
 
-[7] [W Mahatthanatrakul, S Sriwiriyajan, W Ridtitid, J Boonleang, M Wongnawa, N Rujimamahasan, W Pipatrattanaseree. Effect of cytochrome P450 3A4 inhibitor ketoconazole on risperidone pharmacokinetics in healthy volunteers. J Clin Pharm Ther, 2012;37:221-225.](https://doi.org/10.1111/j.1365-2710.2011.01271.x)
+[7] W Mahatthanatrakul, S Sriwiriyajan, W Ridtitid, J Boonleang, M Wongnawa, N Rujimamahasan, W Pipatrattanaseree. Effect of cytochrome P450 3A4 inhibitor ketoconazole on risperidone pharmacokinetics in healthy volunteers. J Clin Pharm Ther, 2012;37:221-225. doi: [10.1111/j.1365-2710.2011.01271.x](https://doi.org/10.1111/j.1365-2710.2011.01271.x).
 
-[8] [T Nakagami, N Yasui-Furukori, M Saito, T Tateishi, S Kaneo. Effect of verapamil on pharmacokinetics and pharmacodynamics of risperidone. Clin Pharmacol Ther, 2005;78:43-51.](https://doi.org/10.1016/j.clpt.2005.03.009)
+[8] T Nakagami, N Yasui-Furukori, M Saito, T Tateishi, S Kaneo. Effect of verapamil on pharmacokinetics and pharmacodynamics of risperidone. Clin Pharmacol Ther, 2005;78:43-51. doi: [10.1016/j.clpt.2005.03.009](https://doi.org/10.1016/j.clpt.2005.03.009).
 
-[9] [K A Kim, P W Park, K H Liu, K B Kim, H J Kim, J G Shin, J Y Park. Effect of rifampin, an inducer of CYP3A and P-glycoprotein, on the pharmacokinetics of risperidone. J Clin Pharmacol, 2008;48:66-72.](https://doi.org/10.1177/0091270007309888)
+[9] K A Kim, P W Park, K H Liu, K B Kim, H J Kim, J G Shin, J Y Park. Effect of rifampin, an inducer of CYP3A and P-glycoprotein, on the pharmacokinetics of risperidone. J Clin Pharmacol, 2008;48:66-72. doi: [10.1177/0091270007309888](https://doi.org/10.1177/0091270007309888).
 
-[10] [W Mahatthanatrakul, T Nontaput, W Ridtitid, M Wongnawa, M Sunbhanich. Rifampin decreases plasma concentrations of risperidone in healthy volunteers. J Clin Pharm Ther, 2007;32:161-167.](https://doi.org/10.1111/j.1365-2710.2007.00811.x)
+[10] W Mahatthanatrakul, T Nontaput, W Ridtitid, M Wongnawa, M Sunbhanich. Rifampin decreases plasma concentrations of risperidone in healthy volunteers. J Clin Pharm Ther, 2007;32:161-167. doi: [10.1111/j.1365-2710.2007.00811.x](https://doi.org/10.1111/j.1365-2710.2007.00811.x).
