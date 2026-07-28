@@ -9,7 +9,7 @@ Users of the models are expected to cite these studies when using the model in s
 - [L A Kneller, F Abad-Santos, G Hempel. Physiologically Based Pharmacokinetic Modelling to Describe the Pharmacokinetics of Risperidone and 9-Hydroxyrisperidone According to Cytochrome P450 2D6 Phenotypes. Clin Pharmacokinet, 2020;59:51-65.](https://doi.org/10.1007/s40262-019-00793-x)
 - [S Rüdesheim, D Selzer, T Mürdter, S Igel, R Kerb, M Schwab, T Lehr. Physiologically Based Pharmacokinetic Modeling to Describe the CYP2D6 Activity Score-Dependent Metabolism of Paroxetine, Atomoxetine and Risperidone. Pharmaceutics, 2022;14:1734.](https://doi.org/10.3390/pharmaceutics14081734)
 
-This risperidone model is intended to describe risperidone, 9-hydroxyrisperidone and active-moiety pharmacokinetics across CYP2D6 phenotype and activity-score groups.
+This risperidone model is intended to describe risperidone and 9-hydroxyrisperidone pharmacokinetics across CYP2D6 phenotype and activity-score groups.
 
 Model note: The 9-hydroxyrisperidone P-gp K<sub>m</sub> reported in the publication and supplement by Rüdesheim et al. [[2](#references)] is mismatched. The model retains the correct value of 149.6 µmol/L.
 
@@ -28,7 +28,7 @@ This repository contains:
 - static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
 - an evaluation plan (evaluation_plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
-**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](./releases/latest).**
+**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](https://github.com/Open-Systems-Pharmacology/Risperidone-Model/releases/latest).**
 
 **The latest release of the PK-Sim project model file and the respective evaluation report can be found in the [latest OSP PBPK Model Library release](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 

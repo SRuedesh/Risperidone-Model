@@ -1,8 +1,8 @@
 Risperidone is an atypical antipsychotic used for schizophrenia and other psychiatric indications. It is administered orally and is converted to the active metabolite 9-hydroxyrisperidone, also known as paliperidone. CYP2D6 is an important metabolic pathway for risperidone, while CYP3A4 and transporter processes contribute to parent and metabolite disposition.
 
-This risperidone model is intended to describe plasma concentration-time profiles of risperidone, 9-hydroxyrisperidone, and active moiety across CYP2D6 phenotype and activity-score groups. It supports evaluation of CYP2D6 drug-gene interactions and interacting-drug scenarios where risperidone or 9-hydroxyrisperidone exposure is clinically relevant.
+This risperidone model is intended to describe plasma concentration-time profiles of risperidone and 9-hydroxyrisperidone across CYP2D6 phenotype and activity-score groups. It supports evaluation of CYP2D6 drug-gene interactions and interacting-drug scenarios where risperidone or 9-hydroxyrisperidone exposure is clinically relevant.
 
-The risperidone parent-metabolite PBPK model was originally developed by [Kneller 2020](#5-references). The model was subsequently used in the CYP2D6 activity-score framework by [Rüdesheim 2022](#5-references) and in the CYP2D6 drug-drug-gene interaction network by [Rüdesheim 2025](#5-references). The clinical data include oral single-dose and multiple-dose administration of risperidone, CYP2D6 phenotype or activity-score stratified groups, and studies with CYP3A or P-gp modulators.
+The risperidone parent-metabolite PBPK model was originally developed by [Kneller 2020](#5). The model was subsequently used in the CYP2D6 activity-score framework by [Rüdesheim 2022](#5) and in the CYP2D6 drug-drug-gene interaction network by [Rüdesheim 2025](#5). The clinical data include oral single-dose and multiple-dose administration of risperidone and CYP2D6 phenotype or activity-score stratified groups.
 
 The presented model includes the following features:
 

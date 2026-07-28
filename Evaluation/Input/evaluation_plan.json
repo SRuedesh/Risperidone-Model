@@ -3,7 +3,7 @@
   "Projects": [
     {
       "Id": "Risperidone",
-      "Path": "../../Risperidone-Model.json",
+      "Path": "../../Risperidone-model.json",
       "BuildingBlocks": []
     }
   ],
@@ -128,14 +128,14 @@
       },
       {
         "Project": "Risperidone",
-        "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+        "Simulation": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
         "SectionId": 332
       }
     ],
     "GOFMergedPlots": [
       {
-        "Title": "Observed versus simulated concentration-time data for all modeled compounds",
-        "SectionId": 32,
+        "Title": "Risperidone goodness-of-fit diagnostics",
+        "SectionId": 321,
         "Artifacts": [
           "Plot",
           "GMFE",
@@ -229,13 +229,28 @@
               },
               {
                 "Project": "Risperidone",
-                "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+                "Simulation": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
                 "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
+                "ObservedData": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
                 "Color": "#FF0000"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "Title": "9-Hydroxyrisperidone goodness-of-fit diagnostics",
+        "SectionId": 322,
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure"
+        ],
+        "PlotTypes": [
+          "predictedVsObserved",
+          "residualsOverTime"
+        ],
+        "Groups": [
           {
             "Caption": "9-Hydroxyrisperidone",
             "Symbol": "Square",
@@ -284,9 +299,9 @@
               },
               {
                 "Project": "Risperidone",
-                "Simulation": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+                "Simulation": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
                 "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
+                "ObservedData": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
                 "Color": "#0000FF"
               }
             ]
@@ -349,7 +364,19 @@
         {
           "Id": 32,
           "Title": "Diagnostic plots",
-          "Content": "Content/GOF_diagnostics.md"
+          "Content": "Content/GOF_diagnostics.md",
+          "Sections": [
+            {
+              "Id": 321,
+              "Title": "Risperidone goodness-of-fit diagnostics",
+              "Content": "Content/GOF_diagnostics_risperidone.md"
+            },
+            {
+              "Id": 322,
+              "Title": "9-Hydroxyrisperidone goodness-of-fit diagnostics",
+              "Content": "Content/GOF_diagnostics_9hydroxyrisperidone.md"
+            }
+          ]
         },
         {
           "Id": 33,

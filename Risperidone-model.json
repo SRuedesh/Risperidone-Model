@@ -28485,7 +28485,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -28560,7 +28560,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -28684,7 +28684,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -28759,7 +28759,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -28883,7 +28883,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -29219,7 +29219,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -29491,7 +29491,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -29611,7 +29611,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -29899,7 +29899,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -30147,7 +30147,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -30267,7 +30267,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -30342,7 +30342,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -30421,7 +30421,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -30757,7 +30757,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -30877,7 +30877,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -30997,7 +30997,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -31121,7 +31121,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -31457,7 +31457,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -31793,7 +31793,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Kim (2018), n=10 (AS=1.25)",
+      "Category": "Kim (2008), n=10 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -43112,7 +43112,7 @@
       ]
     },
     {
-      "Name": "Kim (2018), n=10 (AS=1.25)",
+      "Name": "Kim (2008), n=10 (AS=1.25)",
       "Seed": 2073709781,
       "OriginData": {
         "CalculationMethods": [
@@ -43134,25 +43134,25 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Kim (2018), n=10 (AS=1.25)",
-        "AADAC|Human|Kim (2018), n=10 (AS=1.25)",
-        "CYP2D6|Human|Kim (2018), n=10 (AS=1.25)",
-        "MAOA|Human|Kim (2018), n=10 (AS=1.25)",
-        "ABCB1|Human|Kim (2018), n=10 (AS=1.25)",
-        "OATP1B1|Human|Kim (2018), n=10 (AS=1.25)",
-        "ATP1A2|Human|Kim (2018), n=10 (AS=1.25)",
-        "OCT2|Human|Kim (2018), n=10 (AS=1.25)",
-        "MATE2-K|Human|Kim (2018), n=10 (AS=1.25)",
-        "PON3|Human|Kim (2018), n=10 (AS=1.25)",
-        "CYP2C8|Human|Kim (2018), n=10 (AS=1.25)",
-        "UGT2B7|Human|Kim (2018), n=10 (AS=1.25)",
-        "ABCC3|Human|Kim (2018), n=10 (AS=1.25)",
-        "DPYS|Human|Kim (2018), n=10 (AS=1.25)",
-        "UPB1|Human|Kim (2018), n=10 (AS=1.25)",
-        "DPYD|Human|Kim (2018), n=10 (AS=1.25)",
-        "ABCC4|Human|Kim (2018), n=10 (AS=1.25)",
-        "SLC22A7|Human|Kim (2018), n=10 (AS=1.25)",
-        "Liver_influx_gemfibrozil|Human|Kim (2018), n=10 (AS=1.25)"
+        "CYP3A4|Human|Kim (2008), n=10 (AS=1.25)",
+        "AADAC|Human|Kim (2008), n=10 (AS=1.25)",
+        "CYP2D6|Human|Kim (2008), n=10 (AS=1.25)",
+        "MAOA|Human|Kim (2008), n=10 (AS=1.25)",
+        "ABCB1|Human|Kim (2008), n=10 (AS=1.25)",
+        "OATP1B1|Human|Kim (2008), n=10 (AS=1.25)",
+        "ATP1A2|Human|Kim (2008), n=10 (AS=1.25)",
+        "OCT2|Human|Kim (2008), n=10 (AS=1.25)",
+        "MATE2-K|Human|Kim (2008), n=10 (AS=1.25)",
+        "PON3|Human|Kim (2008), n=10 (AS=1.25)",
+        "CYP2C8|Human|Kim (2008), n=10 (AS=1.25)",
+        "UGT2B7|Human|Kim (2008), n=10 (AS=1.25)",
+        "ABCC3|Human|Kim (2008), n=10 (AS=1.25)",
+        "DPYS|Human|Kim (2008), n=10 (AS=1.25)",
+        "UPB1|Human|Kim (2008), n=10 (AS=1.25)",
+        "DPYD|Human|Kim (2008), n=10 (AS=1.25)",
+        "ABCC4|Human|Kim (2008), n=10 (AS=1.25)",
+        "SLC22A7|Human|Kim (2008), n=10 (AS=1.25)",
+        "Liver_influx_gemfibrozil|Human|Kim (2008), n=10 (AS=1.25)"
       ]
     },
     {
@@ -43438,7 +43438,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 3.1902307094,
+              "Value": 3.19,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
@@ -43477,7 +43477,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 1.9418795623,
+              "Value": 1.94,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
@@ -43677,7 +43677,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 1.2197940948,
+              "Value": 1.22,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
@@ -43715,7 +43715,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 0.742483362,
+              "Value": 0.74,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
@@ -43754,7 +43754,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 5.911309844,
+              "Value": 5.91,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
@@ -43792,7 +43792,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 3.5981886007,
+              "Value": 3.6,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
@@ -43898,7 +43898,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 1.66,
+              "Value": 1.64,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
@@ -43932,7 +43932,7 @@
             },
             {
               "Name": "kcat",
-              "Value": 1.01,
+              "Value": 1.0,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "Other",
@@ -44726,7 +44726,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Novalbos 2010: risperidone, 1 mg, po, n=26 (AS=1)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -45027,7 +45027,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Novalbos 2010: risperidone, 1 mg, po, n=33 (AS=2)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -45328,7 +45328,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Novalbos 2010: risperidone, 1 mg, po, n=6 (AS=0)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -45629,7 +45629,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Novalbos 2010: risperidone, 1 mg, po, n=6 (AS=3)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -45958,7 +45958,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Bondolfi 2002: risperidone, 2 mg, po, md, n=2 (PM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -46287,7 +46287,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Bondolfi 2002: risperidone, 2 mg, po, md, n=8 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -46588,7 +46588,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Nakagami 2005: risperidone, 1 mg, po, n=12 (AS=1)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -46803,7 +46803,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Markowitz 2002: risperidone, 1 mg, po, n=14 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -47077,7 +47077,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mahatthanatrakul 2007: risperidone, 4 mg, po,  n=10 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -47292,7 +47292,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Darwish 2015: risperidone, 2 mg, po, n=36 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -47593,7 +47593,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mahatthanatrakul 2012: risperidone, 2 mg, po, n=10 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -47616,11 +47616,11 @@
       ]
     },
     {
-      "Name": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+      "Name": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)",
       "Model": "4Comp",
       "ObservedData": [
-        "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
-        "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone"
+        "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
+        "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -47676,16 +47676,16 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone"
+          "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone"
         },
         {
           "Scaling": "Log",
-          "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone"
+          "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone"
         }
       ],
-      "Individual": "Kim (2018), n=10 (AS=1.25)",
+      "Individual": "Kim (2008), n=10 (AS=1.25)",
       "Compounds": [
         {
           "Name": "Risperidone",
@@ -47854,27 +47854,27 @@
           ],
           "Curves": [
             {
-              "Name": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+              "Y": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+              "Y": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)|Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2
               }
             },
             {
-              "Name": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|[h]",
-              "Y": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]",
+              "Name": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone-9-Hydroxyrisperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|[h]",
+              "Y": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -47883,9 +47883,9 @@
               }
             },
             {
-              "Name": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|[h]",
-              "Y": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
+              "Name": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|[h]",
+              "Y": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 4,
@@ -47894,7 +47894,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kim 2008: risperidone, 1 mg, po, n = 10 (AS = 1.25)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -49616,7 +49616,7 @@
       }
     },
     {
-      "Name": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
+      "Name": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -49646,7 +49646,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL](1)"
+                "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -49670,7 +49670,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]"
+            "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|ObservedData|Peripheral Venous Blood|Plasma|9-Hydroxyrisperidone|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -49696,7 +49696,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|[h]",
+          "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -49720,7 +49720,7 @@
       }
     },
     {
-      "Name": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
+      "Name": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -49750,7 +49750,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
+                "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -49774,7 +49774,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
+            "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -49800,7 +49800,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|[h]",
+          "Path": "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -49951,7 +49951,7 @@
         "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), risperidone",
         "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone",
         "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM), risperidone",
-        "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
+        "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
         "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM), risperidone"
       ]
     },
@@ -49964,7 +49964,7 @@
         "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), 9-hydroxyrisperidone",
         "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), 9-hydroxyrisperidone",
         "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM), 9-hydroxyrisperidone",
-        "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone"
+        "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), 9-hydroxyrisperidone"
       ]
     }
   ],
@@ -49977,7 +49977,7 @@
         "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
         "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1)",
         "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)",
-        "Kim (2018) - risperidone, 1 mg, po, n = 10 (AS = 1.25)"
+        "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)"
       ]
     },
     {

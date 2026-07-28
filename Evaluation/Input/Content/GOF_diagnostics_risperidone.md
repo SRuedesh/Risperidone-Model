@@ -1,3 +1,1 @@
-Below you find the goodness-of-fit visual diagnostic plots for risperidone plasma concentration data used in the model evaluation.
-
-The first plot shows observed versus simulated plasma concentration, the second weighted residuals versus time.
+The first goodness-of-fit plot compares observed and simulated risperidone plasma concentrations. The second plot shows log residuals over time.

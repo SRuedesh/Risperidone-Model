@@ -1,1 +1,1 @@
-The following verification profiles compare the final model with independent risperidone studies across dose and CYP2D6 activity groups. Parent and 9-hydroxyrisperidone performance should be evaluated separately before considering active-moiety behavior.
+The following verification profiles compare the final model with independent risperidone studies across dose and CYP2D6 activity groups. Risperidone and 9-hydroxyrisperidone performance are evaluated separately.

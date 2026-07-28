@@ -21,6 +21,7 @@ CYP2D6
 CYP3A
 CYP3A4
 Darwish
+DDGI
 DeVane
 DGI
 drug-drug-gene
@@ -28,6 +29,7 @@ drug-gene
 Eap
 Edginton
 ee
+Ejsing
 Eissing
 extensive-metabolizer
 Feick
@@ -76,6 +78,7 @@ Nontaput
 Novalbos
 Ochoa
 olanzapine
+Okubo
 Ontogeny
 OSP
 OSPy
