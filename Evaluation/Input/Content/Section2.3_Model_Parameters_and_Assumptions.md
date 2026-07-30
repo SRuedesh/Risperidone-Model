@@ -14,7 +14,7 @@ The same oral absorption assumptions are used across CYP2D6 status groups. Pheno
 
 Risperidone and 9-hydroxyrisperidone are represented with compound-specific plasma protein binding. Fraction unbound values of 17.50% for risperidone and 29.00% for 9-hydroxyrisperidone were used as summarized in [Section 2.2.1](#221).
 
-Partition coefficients were calculated with the Rodgers and Rowland method. The parent-metabolite structure means that distribution affects both the parent and metabolite concentration-time profiles.
+Partition coefficients were calculated with the Rodgers and Rowland method. Cellular permeabilities were calculated with the PK-Sim Standard method. The parent-metabolite structure means that distribution affects both the parent and metabolite concentration-time profiles.
 
 The model uses separate physicochemical and distribution properties for risperidone and 9-hydroxyrisperidone. Tissue distribution and plasma binding are compound-specific, so the parent and metabolite profiles are evaluated separately.
 

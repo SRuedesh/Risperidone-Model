@@ -21365,7 +21365,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -21440,7 +21440,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -21564,7 +21564,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -21639,7 +21639,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -21763,7 +21763,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -22099,7 +22099,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -22371,7 +22371,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -22491,7 +22491,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -22779,7 +22779,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -23027,7 +23027,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -23147,7 +23147,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -23222,7 +23222,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -23301,7 +23301,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -23637,7 +23637,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -23757,7 +23757,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -23877,7 +23877,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -24001,7 +24001,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -24337,7 +24337,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -24673,7 +24673,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Markowitz (2002), n=14 (EM)",
+      "Category": "Markowitz (2002), n=12 (EM)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -43020,7 +43020,7 @@
       ]
     },
     {
-      "Name": "Markowitz (2002), n=14 (EM)",
+      "Name": "Markowitz (2002), n=12 (EM)",
       "Seed": 1817240515,
       "OriginData": {
         "CalculationMethods": [
@@ -43042,25 +43042,25 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Markowitz (2002), n=14 (EM)",
-        "AADAC|Human|Markowitz (2002), n=14 (EM)",
-        "CYP2D6|Human|Markowitz (2002), n=14 (EM)",
-        "MAOA|Human|Markowitz (2002), n=14 (EM)",
-        "ABCB1|Human|Markowitz (2002), n=14 (EM)",
-        "OATP1B1|Human|Markowitz (2002), n=14 (EM)",
-        "ATP1A2|Human|Markowitz (2002), n=14 (EM)",
-        "OCT2|Human|Markowitz (2002), n=14 (EM)",
-        "MATE2-K|Human|Markowitz (2002), n=14 (EM)",
-        "PON3|Human|Markowitz (2002), n=14 (EM)",
-        "CYP2C8|Human|Markowitz (2002), n=14 (EM)",
-        "UGT2B7|Human|Markowitz (2002), n=14 (EM)",
-        "ABCC3|Human|Markowitz (2002), n=14 (EM)",
-        "DPYS|Human|Markowitz (2002), n=14 (EM)",
-        "UPB1|Human|Markowitz (2002), n=14 (EM)",
-        "DPYD|Human|Markowitz (2002), n=14 (EM)",
-        "ABCC4|Human|Markowitz (2002), n=14 (EM)",
-        "SLC22A7|Human|Markowitz (2002), n=14 (EM)",
-        "Liver_influx_gemfibrozil|Human|Markowitz (2002), n=14 (EM)"
+        "CYP3A4|Human|Markowitz (2002), n=12 (EM)",
+        "AADAC|Human|Markowitz (2002), n=12 (EM)",
+        "CYP2D6|Human|Markowitz (2002), n=12 (EM)",
+        "MAOA|Human|Markowitz (2002), n=12 (EM)",
+        "ABCB1|Human|Markowitz (2002), n=12 (EM)",
+        "OATP1B1|Human|Markowitz (2002), n=12 (EM)",
+        "ATP1A2|Human|Markowitz (2002), n=12 (EM)",
+        "OCT2|Human|Markowitz (2002), n=12 (EM)",
+        "MATE2-K|Human|Markowitz (2002), n=12 (EM)",
+        "PON3|Human|Markowitz (2002), n=12 (EM)",
+        "CYP2C8|Human|Markowitz (2002), n=12 (EM)",
+        "UGT2B7|Human|Markowitz (2002), n=12 (EM)",
+        "ABCC3|Human|Markowitz (2002), n=12 (EM)",
+        "DPYS|Human|Markowitz (2002), n=12 (EM)",
+        "UPB1|Human|Markowitz (2002), n=12 (EM)",
+        "DPYD|Human|Markowitz (2002), n=12 (EM)",
+        "ABCC4|Human|Markowitz (2002), n=12 (EM)",
+        "SLC22A7|Human|Markowitz (2002), n=12 (EM)",
+        "Liver_influx_gemfibrozil|Human|Markowitz (2002), n=12 (EM)"
       ]
     },
     {
@@ -46611,10 +46611,10 @@
       ]
     },
     {
-      "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)",
+      "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone"
+        "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -46654,11 +46654,11 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone"
+          "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone"
         }
       ],
-      "Individual": "Markowitz (2002), n=14 (EM)",
+      "Individual": "Markowitz (2002), n=12 (EM)",
       "Compounds": [
         {
           "Name": "Risperidone",
@@ -46783,18 +46783,18 @@
           ],
           "Curves": [
             {
-              "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+              "Y": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone|[h]",
-              "Y": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
+              "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone|[h]",
+              "Y": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -46803,7 +46803,7 @@
               }
             }
           ],
-          "Name": "Markowitz 2002: risperidone, 1 mg, po, n=14 (EM)",
+          "Name": "Markowitz 2002: risperidone, 1 mg, po, n=12 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -46826,10 +46826,10 @@
       ]
     },
     {
-      "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)",
+      "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone"
+        "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -46884,8 +46884,8 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone"
+          "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone"
         }
       ],
       "Individual": "Mahatthanatrakul (2007), n=10 (EM)",
@@ -47057,18 +47057,18 @@
           ],
           "Curves": [
             {
-              "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM)-Risperidone-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+              "Y": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM)|Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2
               }
             },
             {
-              "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone|[h]",
-              "Y": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
+              "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone-Risperidone-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone|[h]",
+              "Y": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 3,
@@ -47077,7 +47077,7 @@
               }
             }
           ],
-          "Name": "Mahatthanatrakul 2007: risperidone, 4 mg, po,  n=10 (EM)",
+          "Name": "Mahatthanatrakul 2007: risperidone, 4 mg, po, n=10 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -47095,7 +47095,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "risperidone\nMahatthanatrakul (2007), risperidone, 4 mg, po,  n=10\n2022-08-18 16:57"
+          "OriginText": "risperidone\nMahatthanatrakul (2007), risperidone, 4 mg, po, n=10\n2022-08-18 16:57"
         }
       ]
     },
@@ -47894,7 +47894,7 @@
               }
             }
           ],
-          "Name": "Kim 2008: risperidone, 1 mg, po, n = 10 (AS = 1.25)",
+          "Name": "Kim 2008: risperidone, 1 mg, po, n=10 (AS=1.25)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -48540,7 +48540,7 @@
       }
     },
     {
-      "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone",
+      "Name": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -48570,7 +48570,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
+                "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -48595,7 +48595,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
+            "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -48622,7 +48622,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone|[h]",
+          "Path": "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -49277,7 +49277,7 @@
       }
     },
     {
-      "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone",
+      "Name": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -49307,7 +49307,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
+                "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -49333,7 +49333,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
+            "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone|ObservedData|Peripheral Venous Blood|Plasma|Risperidone|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -49361,7 +49361,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone|[h]",
+          "Path": "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -49946,10 +49946,10 @@
         "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), risperidone",
         "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM), risperidone",
         "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM), risperidone",
-        "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM), risperidone",
+        "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM), risperidone",
         "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), risperidone",
         "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1), risperidone",
-        "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM), risperidone",
+        "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM), risperidone",
         "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM), risperidone",
         "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25), risperidone",
         "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM), risperidone"
@@ -49976,7 +49976,7 @@
         "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
         "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
         "Nakagami (2005), risperidone, 1 mg, po, n=12 (AS=1)",
-        "Mahatthanatrakul (2007) - risperidone, 4 mg, po,  n=10 (EM)",
+        "Mahatthanatrakul (2007) - risperidone, 4 mg, po, n=10 (EM)",
         "Kim (2008) - risperidone, 1 mg, po, n = 10 (AS = 1.25)"
       ]
     },
@@ -49986,7 +49986,7 @@
         "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
         "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)",
         "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)",
-        "Markowitz (2002) - risperidone, 1 mg, po, n=14 (EM)",
+        "Markowitz (2002) - risperidone, 1 mg, po, n=12 (EM)",
         "Darwish (2015) - risperidone, 2 mg, po, n=36 (EM)",
         "Mahatthanatrakul (2012) - risperidone, 2 mg, po, n=10 (EM)"
       ]
