@@ -6,8 +6,8 @@ The table below summarizes the drug-dependent inputs documented for the risperid
 | --- | ---: | ---: | --- | --- |
 | **Risperidone** |  |  |  |  |
 | MW | g/mol | 410.48 | [Kneller 2020](#5) | Molecular weight. |
-| pK<sub>a</sub> | - | 8.76<sup>a</sup> | [Kneller 2020](#5) | Acid dissociation constant. |
-| pK<sub>a</sub> | - | 3.11<sup>b</sup> | [Kneller 2020](#5) | Acid dissociation constant. |
+| pK<sub>a</sub>,base | - | 8.76 | [Kneller 2020](#5) | pKa of a basic ionization site. |
+| pK<sub>a</sub>,acid | - | 3.11 | [Kneller 2020](#5) | pKa of an acidic ionization site. |
 | f<sub>u</sub> | % | 17.50 | [Kneller 2020](#5) | Fraction unbound in plasma. |
 | K<sub>m,CYP2D6</sub> | µmol/L | 1.10 | [Kneller 2020](#5) | Michaelis constant for 9-hydroxyrisperidone formation. |
 | k<sub>cat,CYP2D6</sub>, EM | 1/min | 1.07 | Optimized | Catalytic rate constant for 9-hydroxyrisperidone formation in extensive metabolizers. |
@@ -24,8 +24,6 @@ The table below summarizes the drug-dependent inputs documented for the risperid
 | GFR fraction | - | 1.00 | Assumed | Fraction used to scale passive glomerular filtration. |
 
 **Table 1:**<a name="table-1"></a> Drug-dependent physicochemical, distribution, metabolism, and elimination parameters used in the final risperidone model.
-
-<sup>a</sup> Basic. <sup>b</sup> Acidic.
 
 <sup>c</sup> The publication and supplement by [Rüdesheim 2022](#5) incorrectly report 26.3 µmol/L. The correct model value is 149.6 µmol/L.
 
